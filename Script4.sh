@@ -4,3 +4,4 @@ Class=Young-minds
 Batch=25
 PROFESSION=AWS/DevSecOps/Azure DevOps
 echo "Class Name is $Class, Batch number $Batch, We are learning $PROFESSION"
+echo "It is necessary in case of bug fixing because bugs are fixed and tested in the development branch with their commits"
